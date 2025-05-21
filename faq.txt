@@ -6,3 +6,30 @@ A: Chatbot digunakan untuk melayani pelanggan, memberikan informasi, atau memban
 
 Q: Bagaimana cara kerja chatbot?
 A: Chatbot bekerja dengan memproses input pengguna dan mencari jawaban yang relevan dalam basis data atau menggunakan model AI.
+
+Q: Halo
+A: Halo juga! Ada yang bisa saya bantu?
+
+Q: Hai
+A: Hai! Silakan ajukan pertanyaan Anda.
+
+Q: Terima kasih
+A: Sama-sama! Senang bisa membantu.
+
+Q: Siapa yang membuat kamu?
+A: Saya dibuat oleh tim pengembang sebagai chatbot untuk menjawab pertanyaan umum (FAQ).
+
+Q: Kamu pakai teknologi apa?
+A: Saya menggunakan model pembelajaran mesin seperti transformer untuk mencocokkan pertanyaan dengan jawaban yang relevan.
+
+Q: Apakah kamu bisa membantu semua hal?
+A: Saya hanya dapat membantu menjawab pertanyaan yang sesuai dengan daftar FAQ yang sudah disediakan.
+
+Q: Apakah kamu online 24 jam?
+A: Ya, selama sistem aktif, saya tersedia kapan saja untuk menjawab pertanyaan Anda.
+
+Q: Apa manfaat menggunakan chatbot dalam bisnis?
+A: Chatbot dapat meningkatkan efisiensi layanan pelanggan, memberikan respons cepat, dan mengurangi beban kerja manusia.
+
+Q: Bagaimana jika pertanyaanku tidak ada di daftar?
+A: Jika saya tidak mengenali pertanyaan Anda, saya akan memberi tahu bahwa saya tidak bisa membantu. Tapi Anda bisa coba bertanya dengan cara berbeda.
