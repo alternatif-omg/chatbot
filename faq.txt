@@ -1,0 +1,8 @@
+Q: Apa itu chatbot?
+A: Chatbot adalah program komputer yang dirancang untuk mensimulasikan percakapan dengan manusia.
+
+Q: Apa kegunaan chatbot?
+A: Chatbot digunakan untuk melayani pelanggan, memberikan informasi, atau membantu pengguna dengan tugas tertentu.
+
+Q: Bagaimana cara kerja chatbot?
+A: Chatbot bekerja dengan memproses input pengguna dan mencari jawaban yang relevan dalam basis data atau menggunakan model AI.
