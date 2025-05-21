@@ -7,9 +7,6 @@ A: Chatbot digunakan untuk melayani pelanggan, memberikan informasi, atau memban
 Q: Bagaimana cara kerja chatbot?
 A: Chatbot bekerja dengan memproses input pengguna dan mencari jawaban yang relevan dalam basis data atau menggunakan model AI.
 
-Q: Hai
-A: Hai! Silakan ajukan pertanyaan Anda.
-
 Q: Halo 
 A: Halo juga Bro !
 
