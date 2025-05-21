@@ -10,6 +10,9 @@ A: Chatbot bekerja dengan memproses input pengguna dan mencari jawaban yang rele
 Q: Hai
 A: Hai! Silakan ajukan pertanyaan Anda.
 
+Q: Halo 
+A: Halo juga Bro !
+
 Q: Terima kasih
 A: Sama-sama! Senang bisa membantu.
 
